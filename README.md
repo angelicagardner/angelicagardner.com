@@ -1,2 +1,13 @@
-# tech.gardner
-New personal website with goals for 2019.
+# Tech. Gardner
+New personal website: [angelicagardner.com](https://www.angelicagardner.com)
+## Goals
+* ...
+* ...
+
+✔️ = completed
+
+## Tech
+* ...
+* ...
+
+✔️ = implemented
