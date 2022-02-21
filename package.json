@@ -1,30 +1,31 @@
 {
+  "name": "gatsby-starter-hello-world",
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
-  "version": "0.2.11",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "description": "A simplified bare-bones starter for Gatsby",
+  "version": "0.1.0",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "develop:cypress": "cross-env CYPRESS_SUPPORT=y yarn develop",
-    "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "^3.0.0",
-    "gatsby": "^4.4.0",
-    "gatsby-plugin-gatsby-cloud": "^4.0.0",
-    "gatsby-plugin-manifest": "^4.0.0",
-    "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.22",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "gatsby": "^4.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "prettier": "^2.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
