@@ -1,0 +1,4 @@
+baseURL = 'https://angelicagardner.com/'
+languageCode = "en"
+title = 'Angelica Gardner'
+theme = 'blowfish'
