@@ -10,6 +10,12 @@
   url = "https://leetcode.com/u/angelicahjelmgardner/"
   weight = 20
 
+[[main]]
+  pre = "circle-info"
+  name = "Download Resume"
+  url = "/resume_angelicahjelmgardner.pdf"
+  weight = 30
+
 [[footer]]
   name = "Privacy Policy"
   pageRef = "privacy"

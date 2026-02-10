@@ -1,8 +1,8 @@
 +++
-title = "Angelica Hjelm Gardner"
+title = "Angelica Gardner"
 date = '2026-02-06T21:08:05+03:00'
 draft = false
-description = "Software Developer"
+description = "Software Developer & Scrum Master"
 
 [header]
   showLabels = true
@@ -15,3 +15,15 @@ description = "Software Developer"
 +++
 
 Hello, world!
+
+{{< typeit
+    tag="h2"
+    speed=50
+    breakLines=false
+    loop=true
+>}}
+Master of Computer Science 🎓
+Certified Scrum Master 📋
+Cloud Native & Backend Developer ☁️
+Building Systems in Telecom & Observability... 🚀
+{{< /typeit >}}
