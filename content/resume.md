@@ -1,11 +1,11 @@
 +++
-title = "About"
+title = "Resumé"
 draft = false
-description = "About me: Software Developer and Scrum Master"
+description = "My Work Experience, Skills, Education and Certifications"
 showDate = false
 showReadingTime = false
 showWordCount = false
 sharingLinks = false
 +++
 
-👋 Hi!
+Coming soon...

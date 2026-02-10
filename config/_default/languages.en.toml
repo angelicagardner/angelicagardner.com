@@ -3,7 +3,7 @@ title = "Angelica Gardner"
 [params.author]
   name = "Angelica Gardner"
   image = "img/profile.jpg"
-  headline = "Software Developer & Scrum Master"
+  headline = "Hello, world!"
   bio = "Backend developer with agile leadership experience."
   links = [
     { github = "https://github.com/angelicagardner" },

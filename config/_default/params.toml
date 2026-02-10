@@ -1,3 +1,6 @@
 colorScheme = "github"
 smartTOC = true
+article.showTableOfContents = true
+article.showAuthor = false
+article.showPagination = false
 list.showTableOfContents = true

@@ -14,16 +14,15 @@ description = "Software Developer & Scrum Master"
   content = "I'm a Computer Science graduate with 5+ years working experience."
 +++
 
-Hello, world!
-
 {{< typeit
-    tag="h2"
+    tag="h3"
     speed=50
-    breakLines=false
-    loop=true
+    breakLines=true
+    loop=false
 >}}
-Master of Computer Science 🎓
-Certified Scrum Master 📋
-Cloud Native & Backend Developer ☁️
-Building Systems in Telecom & Observability... 🚀
+Master of Computer Science
+Certified Scrum Master
+Cloud Native & Backend Developer
+Currently Building Telco Observability... 🚀
+(◔‿◔)
 {{< /typeit >}}

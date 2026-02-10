@@ -1,0 +1,11 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const links = document.querySelectorAll('a[href$=".pdf"], a[href^="http"]');
+        links.forEach(link => {
+            if (!link.href.includes(window.location.host) || link.href.endsWith('.pdf')) {
+                link.setAttribute('target', '_blank');
+                link.setAttribute('rel', 'noopener noreferrer');
+            }
+        });
+    });
+</script>
