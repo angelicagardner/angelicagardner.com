@@ -1,1 +1,3 @@
 colorScheme = "github"
+smartTOC = true
+list.showTableOfContents = true

@@ -1,8 +1,14 @@
 [[main]]
-  pre = "leetcode"
+  pre = "heart-empty"
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  pre = "code"
   name = "LeetCode Profile"
   url = "https://leetcode.com/u/angelicahjelmgardner/"
-  weight = 10
+  weight = 20
 
 [[footer]]
   name = "Privacy Policy"
