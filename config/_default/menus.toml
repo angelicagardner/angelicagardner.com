@@ -1,0 +1,9 @@
+[[main]]
+  pre = "leetcode"
+  name = "LeetCode Profile"
+  url = "https://leetcode.com/u/angelicahjelmgardner/"
+  weight = 10
+
+[[footer]]
+  name = "Privacy Policy"
+  pageRef = "privacy"
