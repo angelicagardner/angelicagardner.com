@@ -20,9 +20,9 @@ description = "Software Developer & Scrum Master"
     breakLines=true
     loop=false
 >}}
-Master of Computer Science
-Certified Scrum Master
-Cloud Native & Backend Developer
-Currently Building Telco Observability... 🚀
 (◔‿◔)
+Cloud Native Backend Developer
+Master of Computer Science 🎓
+Certified Scrum Master
+Currently Building Telco Observability... 🚀
 {{< /typeit >}}

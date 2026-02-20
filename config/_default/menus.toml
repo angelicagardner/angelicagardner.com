@@ -5,7 +5,7 @@
   weight = 10
 
 [[main]]
-  pre = "code"
+  pre = "check"
   name = "Resumé"
   pageRef = "resume"
   weight = 20
@@ -31,9 +31,19 @@
   weight = 10
 
 [[footer]]
+  pre = "code"
   name = "LeetCode Profile"
   url = "https://leetcode.com/u/angelicahjelmgardner/"
   weight = 20
+  [footer.params]
+    target = "_blank"
+    rel = "noopener"
+
+[[footer]]
+  pre = "google-scholar"
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=HHV74b8AAAAJ"
+  weight = 30
   [footer.params]
     target = "_blank"
     rel = "noopener"
