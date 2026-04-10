@@ -12,7 +12,7 @@ sharingLinks = false
 
 ### Ericsson
 
-**Scrum Master & Cloud Native Developer (Aug, 2022 — Now)**
+#### Scrum Master & Cloud Native Developer (Aug, 2022 — Now)
 
 - Developed and maintained two Golang microservices within the 5G Observability
 domain, ensuring high availability in Kubernetes-native environments for
@@ -29,7 +29,7 @@ an onboarding process to improve time-to-productivity for new hires.
 bridge the gap between technical feasibility and business requirements, ensuring
 the most impactful features were delivered on time.
 
-**Tech Stack**
+#### Tech Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="48" width="48" class="mt-0" alt="gitlab" title="gitlab">
 
@@ -37,7 +37,7 @@ the most impactful features were delivered on time.
 
 ### Simple [A]
 
-**Software Developer Intern, R&D (Jan, 2019 — Jun, 2019)**
+#### Software Developer Intern, R&D (Jan, 2019 — Jun, 2019)
 
 - Engineered an automated content-based recommendation engine to personalize
 user discovery. Leveraged data-driven algorithms to improve matching accuracy
@@ -47,13 +47,13 @@ and automate content suggestions during a project-based internship.
 enhancing UX by providing context-aware suggestions during unhandled intents,
 effectively reducing user drop-off and friction.
 
-**Tech Stack**
+#### Tech Stack
 
 ...
 
 ### Mjukhud.se
 
-**Junior Web Developer (Jan, 2015 — Dec, 2016)**
+#### Junior Web Developer (Jan, 2015 — Dec, 2016)
 
 - Optimized cross-platform responsiveness for Magento and WordPress ecosystems
 using a mobile-first approach. Leveraged Bootstrap and custom JavaScript to
@@ -67,7 +67,7 @@ bug fixes to ensure high site reliability.
 techniques (asset minification, critical path rendering) that resulted in
 measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
 
-**Tech Stack**
+#### Tech Stack
 
 ...
 
@@ -79,14 +79,14 @@ measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
 
 ## Education 🎓
 
-### Linnaeus University
+### Linnaeus University (Master)
 
-**Master of Science with specialization in Software Technology, Computer Science**
+Master of Science with specialization in Software Technology, Computer Science
 
-### Linnaeus University
+### Linnaeus University (Bachelor)
 
-**Bachelor of Science, Computer Science**
+Bachelor of Science, Computer Science
 
 ### Mid Sweden University
 
-**Higher Education Diploma with specialization in Web Development, Computer Engineering**
+Higher Education Diploma with specialization in Web Development, Computer Engineering
