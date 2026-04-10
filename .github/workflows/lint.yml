@@ -1,11 +1,21 @@
 name: Lint Markdown
 on: [push, pull_request]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   markdownlint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Code
+        uses: actions/checkout@v6
+
       - name: Markdown Lint
-        uses: DavidAnson/markdownlint-cli2-action@v1
+        uses: DavidAnson/markdownlint-cli2-action@v23.0.0
         with:
           globs: "content/**/*.md"
