@@ -1,4 +1,5 @@
 colorScheme = "github"
+defaultAppearance = "light"
 smartTOC = true
 article.showTableOfContents = true
 article.showAuthor = false
