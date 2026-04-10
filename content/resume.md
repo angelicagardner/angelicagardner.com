@@ -35,8 +35,6 @@ the most impactful features were delivered on time.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" class="mt-0" alt="golang" title="golang"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="48" class="mt-0" alt="python" title="python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" class="mt-0" alt="kubernetes" title="kubernetes"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="48" class="mt-0" alt="helm" title="helm"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="48" class="mt-0" alt="docker" title="docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" width="48" class="mt-0" alt="prometheus" title="prometheus"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="48" class="mt-0" alt="gitlab" title="gitlab">
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="48" width="48" class="mt-0" alt="docker" title="docker">
-
 ### Simple [A]
 
 #### Software Developer Intern, R&D (Jan, 2019 — Jun, 2019)
