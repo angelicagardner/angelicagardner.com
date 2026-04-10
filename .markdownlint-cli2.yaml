@@ -1,0 +1,10 @@
+config:
+  # MD013: Allow long URL and SVG code
+  MD013: false
+
+  # MD033: Allow HTML
+  MD033: false
+
+  # MD024: Allow same title names (for same university or company)
+  MD024:
+    siblings_only: true
