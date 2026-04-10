@@ -33,12 +33,19 @@ the most impactful features were delivered on time.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="48" width="48" class="mt-0" alt="gitlab" title="gitlab">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="48" width="48" class="mt-0" alt="docker" title="docker">
+
 ### Simple [A]
 
 **Software Developer Intern, R&D (Jan, 2019 — Jun, 2019)**
 
-- Remote, project-based internship to develop a content-based recommendation system.
-- The module supported their chatbot system during fallback intent to improve the user experience.
+- Engineered an automated content-based recommendation engine to personalize
+user discovery. Leveraged data-driven algorithms to improve matching accuracy
+and automate content suggestions during a project-based internship.
+
+- Architected a resilient fallback recovery module for a production chatbot,
+enhancing UX by providing context-aware suggestions during unhandled intents,
+effectively reducing user drop-off and friction.
 
 **Tech Stack**
 
@@ -48,9 +55,17 @@ the most impactful features were delivered on time.
 
 **Junior Web Developer (Jan, 2015 — Dec, 2016)**
 
-- Improved the responsiveness of the Magento e-commerce site and WordPress blog using HTML, CSS (Bootstrap), and JavaScript, leading to a better user experience across devices.
-- Assisted with minor Back End fixes and implemented Magento security patches, ensuring site stability and security.
-- Conducted performance testing and implemented Front End optimization techniques, resulting in faster load times and improved PageSpeed Insights scores.
+- Optimized cross-platform responsiveness for Magento and WordPress ecosystems
+using a mobile-first approach. Leveraged Bootstrap and custom JavaScript to
+ensure a seamless and consistent user experience across device viewports.
+
+- Hardened platform security and stability by proactively mitigating
+vulnerabilities through Magento security patches and executing critical backend
+bug fixes to ensure high site reliability.
+
+- Started frontend performance initiatives, implementing advanced optimization
+techniques (asset minification, critical path rendering) that resulted in
+measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
 
 **Tech Stack**
 
@@ -58,7 +73,9 @@ the most impactful features were delivered on time.
 
 ## Certifications 🏆
 
-Coming soon...
+<a href="https://www.credly.com/badges/fbab4872-7785-411c-bc68-9294aa86241a/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="200" alt="Certificate Badge">
+</a>
 
 ## Education 🎓
 
