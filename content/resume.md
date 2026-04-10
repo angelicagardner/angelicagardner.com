@@ -55,10 +55,6 @@ effectively reducing user drop-off and friction.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="48" class="mt-0" alt="dotnetcore" title="dotnetcore"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" class="mt-0" alt="csharp" title="csharp"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="48" class="mt-0" alt="neo4j" title="neo4j"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" width="48" class="mt-0" alt="graphql" title="graphql">
 </div>
 
-**Tech Stack**
-
-...
-
 ### Mjukhud.se
 
 #### Junior Web Developer (Jan, 2015 — Dec, 2016)
