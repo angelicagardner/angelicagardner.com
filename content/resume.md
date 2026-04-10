@@ -49,7 +49,7 @@ effectively reducing user drop-off and friction.
 
 #### Tech Stack
 
-...
+{{< icon "gitlab" >}}
 
 ### Mjukhud.se
 
