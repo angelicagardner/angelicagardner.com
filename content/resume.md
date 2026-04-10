@@ -31,8 +31,7 @@ the most impactful features were delivered on time.
 
 **Tech Stack**
 
-{{< icon "gitlab" >}} GitLab
-{{< icon "go" >}} Golang
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="48" width="48" class="mt-0" alt="gitlab" title="gitlab">
 
 ### Simple [A]
 
