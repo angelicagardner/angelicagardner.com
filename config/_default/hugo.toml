@@ -3,9 +3,6 @@ languageCode = "en"
 title = 'Angelica Gardner'
 theme = 'blowfish'
 
-[params]
-  defaultAppearance = "light"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
