@@ -31,9 +31,7 @@ the most impactful features were delivered on time.
 
 #### Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="48" width="48" class="mt-0" alt="gitlab" title="gitlab">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="48" width="48" class="mt-0" alt="docker" title="docker">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="48" width="48" class="mt-0" alt="golang" title="golang"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="48" width="48" class="mt-0" alt="python" title="python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" height="48" width="48" class="mt-0" alt="kubernetes" title="kubernetes"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" height="48" width="48" class="mt-0" alt="helm" title="helm"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="48" width="48" class="mt-0" alt="docker" title="docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" height="48" width="48" class="mt-0" alt="prometheus" title="prometheus"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="48" width="48" class="mt-0" alt="gitlab" title="gitlab">
 
 ### Simple [A]
 
@@ -49,7 +47,7 @@ effectively reducing user drop-off and friction.
 
 #### Tech Stack
 
-{{< icon "gitlab" >}}
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" width="48" class="mt-0" alt="dotnetcore" title="dotnetcore"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" width="48" class="mt-0" alt="csharp" title="csharp"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="48" width="48" class="mt-0" alt="neo4j" title="neo4j"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="48" width="48" class="mt-0" alt="graphql" title="graphql">
 
 ### Mjukhud.se
 
@@ -69,7 +67,7 @@ measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
 
 #### Tech Stack
 
-...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48" width="48" class="mt-0" alt="html" title="html"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48" width="48" class="mt-0" alt="css" title="css"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="48" width="48" class="mt-0" alt="javascript" title="javascript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="48" width="48" class="mt-0" alt="php" title="php">
 
 ## Certifications 🏆
 
