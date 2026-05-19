@@ -12,22 +12,25 @@ sharingLinks = false
 
 ### Ericsson
 
-#### Scrum Master & Cloud Native Developer (Aug, 2022 — Now)
+#### Scrum Master & Cloud Native Developer (Aug, 2022 — Jan, 2026)
 
 - Developed and maintained two Golang microservices within the 5G Observability
 domain, ensuring high availability in Kubernetes-native environments for
 critical cloud-based telecommunications infrastructure.
 
-- Streamlined team delivery and Ways of Working by refining Scrum ceremonies;
-supported the team toward a culture of better internal documentation and
-proactive blocker identification.
+- Streamlined team delivery by facilitating Scrum ceremonies and driving a
+culture of proactive blocker identification, better internal documentation,
+and continuous improvement — tracked and managed through Jira.
 
-- Participated in technical interviews for junior developers and improving our
-an onboarding process to improve time-to-productivity for new hires.
+- Participated in conducting technical interviews for junior developers and
+design the onboarding process to improve time-to-productivity for new hires.
 
-- Influenced product strategy and roadmap prioritization by assisting the PO to
-bridge the gap between technical feasibility and business requirements, ensuring
-the most impactful features were delivered on time.
+- Provided technical input to roadmap prioritization, bridging feasibility
+assessments with business requirements to ensure on-time delivery of
+high-impact features.
+
+- Awarded Key Contributor Award (2024) for excellence in product strategy and
+guiding the team through organizational transitions.
 
 #### Tech Stack
 
@@ -39,13 +42,11 @@ the most impactful features were delivered on time.
 
 #### Software Developer Intern, R&D (Jan, 2019 — Jun, 2019)
 
-- Engineered an automated content-based recommendation engine to personalize
-user discovery. Leveraged data-driven algorithms to improve matching accuracy
-and automate content suggestions during a project-based internship.
-
-- Architected a resilient fallback recovery module for a production chatbot,
-enhancing UX by providing context-aware suggestions during unhandled intents,
-effectively reducing user drop-off and friction.
+- Engineered an NLP-powered conversational AI prototype using Dialogflow,
+GraphQL, and Neo4j to validate production feasibility — designing intent
+handling, graph-based data relationships, and a fallback recovery module that
+provided context-aware responses for unhandled user inputs, reducing drop-off
+and friction.
 
 #### Tech Stack
 
