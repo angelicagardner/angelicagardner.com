@@ -21,8 +21,8 @@ description = "Software Developer & Scrum Master"
     loop=false
 >}}
 (◔‿◔)
-Cloud Native Backend Developer
-Master of Computer Science 🎓
-Certified Scrum Master
+Backend Developer
+Computer Science MSc 🎓
+PSM I Certified
 Currently Building Telco Observability... 🚀
 {{< /typeit >}}
