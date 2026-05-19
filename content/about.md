@@ -8,7 +8,7 @@ showWordCount = false
 sharingLinks = false
 +++
 
-## 👋 Hi and Welcome!
+## 👋 Hi and Welcome
 
 I'm a Cloud Native Developer based in Stockholm, currently on a planned leave
 from Ericsson to live abroad and study Arabic at Umm Al-Qura University.
