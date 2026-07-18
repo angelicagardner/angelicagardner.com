@@ -6,6 +6,4 @@ article.showTableOfContents = true
 article.showAuthor = false
 article.showPagination = false
 list.showTableOfContents = true
-
-[opengraph]
-images = ["assets/img/og-preview.png"]
+defaultSocialImage = "img/og-preview.png"

@@ -1,8 +1,8 @@
 +++
-title = "Angelica Gardner"
+title = "Angelica Hjelm Gardner - Software Developer"
 date = '2026-02-06T21:08:05+03:00'
 draft = false
-description = "Software Developer & Scrum Master"
+description = "I'm a Software developer working with cloud native observability, I also have team leading and Scrum Master experience."
 
 [header]
   showLabels = true
