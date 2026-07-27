@@ -12,7 +12,13 @@ sharingLinks = false
 
 ### Ericsson
 
-#### Scrum Master & Cloud Native Developer (Aug, 2022 — Jan, 2026)
+#### Cloud Native Developer (Aug, 2026 — Current)
+
+- In 2026, I took a 6-month period of leave to study Arabic at Umm Al-Qura
+University in Saudi Arabia. I've since returned to Stockholm and am back with
+my team in the Observability domain, now focused fully on development.
+
+#### Cloud Native Developer & Scrum Master (Aug, 2022 — Jan, 2026)
 
 - Developed and maintained two Golang microservices within the 5G Observability
 domain, ensuring high availability in Kubernetes-native environments for
