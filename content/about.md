@@ -10,9 +10,10 @@ sharingLinks = false
 
 ## 👋 Hi and Welcome
 
-I'm a Cloud Native Developer based in Stockholm, currently on a planned leave
-from Ericsson to live abroad and study Arabic at Umm Al-Qura University.
-I'll be returning to my team and our 5G Observability microservices in 2027.
+I'm a Cloud Native Developer based in Stockholm, working on Go microservices
+in Ericsson's 5G Observability domain. I recently returned from a period of
+study abroad in Saudi Arabia, where I studied Arabic at Umm Al-Qura University,
+and I'm now back with my team full-time as a developer.
 
 My background spans AI/ML engineering in Python through my academic work and
 cloud-native infrastructure development in Go. I am a certified Scrum Master
