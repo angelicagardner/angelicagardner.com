@@ -10,64 +10,75 @@
     font-size: 0.875rem;
     font-weight: 600;
     margin-bottom: 0.35rem;
-    color: var(--color-neutral-600, #4b5563);
+    color: #6b7280 !important;
     display: block;
 }
 
 .contact-form input,
 .contact-form textarea {
-    width: 100%;
-    padding: 0.65rem 0.85rem;
-    border: 1px solid var(--color-neutral-300, #d1d5db);
-    border-radius: 0.5rem;
-    background-color: var(--color-neutral-50, #f9fafb);
-    color: var(--color-neutral-800, #1f2937);
-    font-size: 0.95rem;
-    font-family: inherit;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    padding: 0.65rem 0.85rem !important;
+    border: 1px solid #d1d5db !important;
+    border-radius: 0.5rem !important;
+    background-color: #f9fafb !important;
+    color: #1f2937 !important;
+    font-size: 0.95rem !important;
+    font-family: inherit !important;
     transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-    outline: none;
-    border-color: var(--color-primary-500, #3b82f6);
-    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+    outline: none !important;
+    border-color: #3b82f6 !important;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15) !important;
 }
 
 .contact-form textarea {
-    resize: vertical;
-    min-height: 120px;
+    resize: vertical !important;
+    min-height: 120px !important;
 }
 
 .contact-form button {
+    display: inline-block !important;
     align-self: flex-start;
-    padding: 0.65rem 1.5rem;
-    background-color: var(--color-primary-600, #2563eb);
-    color: #ffffff;
-    font-weight: 600;
-    font-size: 0.95rem;
-    border: none;
-    border-radius: 0.5rem;
+    padding: 0.65rem 1.5rem !important;
+    background-color: #2563eb !important;
+    color: #ffffff !important;
+    font-weight: 600 !important;
+    font-size: 0.95rem !important;
+    border: none !important;
+    border-radius: 0.5rem !important;
     cursor: pointer;
     transition: background-color 0.15s ease, transform 0.1s ease;
 }
 
 .contact-form button:hover {
-    background-color: var(--color-primary-700, #1d4ed8);
+    background-color: #1d4ed8 !important;
 }
 
 .contact-form button:active {
     transform: scale(0.98);
 }
 
-/* Dark mode support*/
+/* Dark mode support */
 html.dark .contact-form input,
 html.dark .contact-form textarea {
-    background-color: #1e2530;
-    border-color: #374151;
-    color: #e5e7eb;
+    background-color: #1e2530 !important;
+    border-color: #374151 !important;
+    color: #e5e7eb !important;
 }
 
 html.dark .contact-form label {
-    color: #9ca3af;
+    color: #9ca3af !important;
+}
+
+html.dark .contact-form button {
+    background-color: #3b82f6 !important;
+    color: #ffffff !important;
+}
+
+html.dark .contact-form button:hover {
+    background-color: #2563eb !important;
 }

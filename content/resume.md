@@ -86,7 +86,7 @@ measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
 
 ### Key Contributor 🏅
 
-Ericsson Jan, 2024
+Ericsson - Jan, 2024
 
 ## Certifications 📃
 
