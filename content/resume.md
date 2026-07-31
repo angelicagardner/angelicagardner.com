@@ -82,7 +82,13 @@ measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="48" class="mt-0" alt="html" title="html"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="48" class="mt-0" alt="css" title="css"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" class="mt-0" alt="javascript" title="javascript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" class="mt-0" alt="php" title="php">
 </div>
 
-## Certifications 🏆
+## Recognition
+
+### Key Contributor 🏅
+
+Ericsson Jan, 2024
+
+## Certifications 📃
 
 <a href="https://www.credly.com/badges/fbab4872-7785-411c-bc68-9294aa86241a/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="200" alt="Certificate Badge">

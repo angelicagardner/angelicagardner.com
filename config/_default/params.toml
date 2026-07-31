@@ -7,3 +7,4 @@ article.showAuthor = false
 article.showPagination = false
 list.showTableOfContents = true
 defaultSocialImage = "img/og-preview.png"
+customCSS = ["css/custom.css"]
