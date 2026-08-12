@@ -23,19 +23,10 @@ pageRef = "blog"
 weight = 40
 
 [[main]]
-pre = "circle-info"
-name = "Download Resume"
-url = "/resume_angelicahjelmgardner.pdf"
-weight = 50
-[main.params]
-target = "_blank"
-rel = "noopener"
-
-[[main]]
 pre = "envelope"
 name = "Contact"
 pageRef = "contact"
-weight = 60
+weight = 50
 
 [[footer]]
 name = "Privacy Policy"
@@ -51,9 +42,18 @@ target = "_blank"
 rel = "noopener"
 
 [[footer]]
-name = "Google Scholar"
+name = "Google Scholar Profile"
 url = "https://scholar.google.com/citations?user=HHV74b8AAAAJ"
 weight = 30
+[footer.params]
+target = "_blank"
+rel = "noopener"
+
+[[footer]]
+pre = "circle-info"
+name = "Download Resume"
+url = "/resume_angelicahjelmgardner.pdf"
+weight = 40
 [footer.params]
 target = "_blank"
 rel = "noopener"

@@ -8,6 +8,8 @@ showWordCount = false
 sharingLinks = false
 +++
 
+[Click here to download my resume as PDF](https://angelicagardner.com/resume_angelicahjelmgardner.pdf)
+
 ## Work Experience 💼
 
 ### Ericsson
