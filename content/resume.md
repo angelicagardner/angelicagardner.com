@@ -84,7 +84,7 @@ measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="48" class="mt-0" alt="html" title="html"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="48" class="mt-0" alt="css" title="css"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" class="mt-0" alt="javascript" title="javascript"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" class="mt-0" alt="php" title="php">
 </div>
 
-## Recognition
+## 🏅 Recognition
 
 ### Key Contributor
 
