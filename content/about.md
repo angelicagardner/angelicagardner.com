@@ -18,8 +18,8 @@ To see which open-source software projects I’ve created or made contributions 
 see my [GitHub Profile](https://github.com/angelicagardner).
 
 My background spans AI/ML engineering in Python through my academic work and
-cloud-native infrastructure development in Go. I am a certified Scrum Master
-according to PSM I, but I'm happiest when I'm deep in the technical work.
+cloud-native infrastructure development in Go. I have experience as Scrum
+Master but I'm happiest when I'm deep in the technical work.
 To follow my publications, see my
 [Google Scholar Profile](https://scholar.google.com/citations?user=HHV74b8AAAAJ&hl=sv).
 

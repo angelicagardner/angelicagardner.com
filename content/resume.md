@@ -8,7 +8,9 @@ showWordCount = false
 sharingLinks = false
 +++
 
-## Work Experience 💼
+[Click here to download my resume as PDF](https://angelicagardner.com/resume_angelicahjelmgardner.pdf)
+
+## Work Experience
 
 ### Ericsson
 
@@ -84,17 +86,17 @@ measurable improvements to Google PageSpeed Insights scores and Core Web Vitals.
 
 ## Recognition
 
-### Key Contributor 🏅
+### Key Contributor
 
 Ericsson - Jan, 2024
 
-## Certifications 📃
+## Certifications
 
 <a href="https://www.credly.com/badges/fbab4872-7785-411c-bc68-9294aa86241a/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="200" alt="Certificate Badge">
 </a>
 
-## Education 🎓
+## Education
 
 ### Linnaeus University (Master)
 
