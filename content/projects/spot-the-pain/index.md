@@ -8,8 +8,10 @@ showTableOfContents: true
 ---
 
 <!-- markdownlint-disable MD034 -->
+<div class="project-links">
 {{< button href="https://github.com/angelicagardner/skeleton-pose-estimation-for-pain-assessment" target="_blank" >}}Code{{< /button >}}
 {{< button href="https://www.diva-portal.org/smash/record.jsf?pid=diva2:1673390" target="_blank" >}}Thesis{{< /button >}}
+</div>
 <!-- markdownlint-enable MD034 -->
 
 ## The Problem
@@ -53,6 +55,15 @@ graph TD
     G --> H
     H --> I[Recognition / Intensity / Area]
 {{< /mermaid >}}
+
+## Tech stack
+
+- **Language:** Python
+- **Deep learning:** TensorFlow 2.8 and Keras, TensorFlow Addons
+- **Feature extraction:** PoseNet (body keypoints), OpenFace (facial action units), OpenCV (video preprocessing)
+- **Ensembles and augmentation:** DeepStack (weighted ensembles), time-series data augmentation
+- **Data and evaluation:** pandas, NumPy, scikit-learn, k-fold cross-validation
+- **Workflow:** Jupyter notebooks, Cookiecutter Data Science project structure, Pipenv
 
 ## Results
 

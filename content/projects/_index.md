@@ -8,5 +8,8 @@ showTableOfContents: false
 cascade:
   showReadingTime: false
   showDate: false
+  showHero: true
+  heroStyle: "basic"
+  showTaxonomies: true
 ---
 A selection of my research and engineering projects.
