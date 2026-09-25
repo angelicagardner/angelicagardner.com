@@ -82,3 +82,10 @@ html.dark .contact-form button {
 html.dark .contact-form button:hover {
     background-color: #2563eb !important;
 }
+
+.project-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+}

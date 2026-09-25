@@ -1,7 +1,15 @@
 ---
 title: "Projects"
-description: "Learn about some of my projects."
+description: "Research and engineering projects, from thesis work to open source."
+cardView: true
+orderByWeight: true
+showSummary: true
+showTableOfContents: false
 cascade:
   showReadingTime: false
+  showDate: false
+  showHero: true
+  heroStyle: "basic"
+  showTaxonomies: true
 ---
-WIP. This section will contain some of my public projects.
+A selection of my research and engineering projects.
