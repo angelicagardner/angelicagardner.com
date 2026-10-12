@@ -3,7 +3,7 @@ title: "Spot the Pain"
 description: "Master's thesis on skeleton pose estimation for automated pain assessment."
 summary: "Master's thesis (2022): can body movement, captured with skeleton pose estimation, recognise, grade, and localise pain - either alone or combined with facial expressions?"
 tags: ["machine learning", "deep learning", "pose estimation", "multimodal learning", "health research"]
-weight: 10
+weight: 30
 showTableOfContents: true
 ---
 
