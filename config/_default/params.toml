@@ -1,5 +1,5 @@
 colorScheme = "github"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 smartTOC = true
 defaultSocialImage = "img/og-preview.png"
@@ -7,7 +7,7 @@ customCSS = ["css/custom.css"]
 
 enableSearch = true
 enableCodeCopy = true
-mainSections = ["posts"]
+mainSections = ["projects"]
 
 [header]
 layout = "fixed"
@@ -24,7 +24,7 @@ homepageImage = "img/background.jpg"
 showRecent = true
 showRecentItems = 3
 showMoreLink = true
-showMoreLinkDest = "/posts"
+showMoreLinkDest = "/projects"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
