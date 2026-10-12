@@ -8,7 +8,9 @@ showWordCount = false
 sharingLinks = false
 +++
 
-[Click here to download my resume as PDF](https://angelicagardner.com/resume_angelicahjelmgardner.pdf)
+{{< button href="/resume_angelicahjelmgardner.pdf" target="_blank" >}}
+Download resume (PDF)
+{{< /button >}}
 
 ## Work Experience
 

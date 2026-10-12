@@ -1,10 +1,60 @@
 colorScheme = "github"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 smartTOC = true
-article.showTableOfContents = true
-article.showAuthor = false
-article.showPagination = false
-list.showTableOfContents = true
 defaultSocialImage = "img/og-preview.png"
 customCSS = ["css/custom.css"]
+
+enableSearch = true
+enableCodeCopy = true
+mainSections = ["projects"]
+
+[header]
+layout = "fixed"
+
+[footer]
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+homepageImage = "img/background.jpg"
+showRecent = true
+showRecentItems = 3
+showMoreLink = true
+showMoreLinkDest = "/projects"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+
+[article]
+showDate = true
+showDateUpdated = false
+showAuthor = false
+showHero = true
+heroStyle = "background"
+showBreadcrumbs = true
+showDraftLabel = true
+showHeadingAnchors = true
+showPagination = false
+showReadingTime = true
+showTableOfContents = true
+showWordCount = true
+showSummary = true
+sharingLinks = ["linkedin", "email"]
+
+[list]
+showHero = true
+heroStyle = "background"
+showBreadcrumbs = false
+showSummary = true
+showTableOfContents = true
+showCards = true
+groupByYear = true
+cardView = true
+cardViewScreenWidth = false
+
+[taxonomy]
+showTermCount = true
