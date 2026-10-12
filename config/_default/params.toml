@@ -19,12 +19,13 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
+
+showMoreLinkDest = "/projects"
 layout = "background"
 homepageImage = "img/background.jpg"
 showRecent = true
 showRecentItems = 3
 showMoreLink = true
-showMoreLinkDest = "/projects"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
